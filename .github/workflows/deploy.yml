@@ -21,10 +21,10 @@ jobs:
       with:
         ruby-version: '3.4.2'
         bundler-cache: true
-    - name: Install Bundler
-      run: gem install bundler
-    - name: Clear gem cache
-      run: bundle exec gem cleanup
+#    - name: Install Bundler
+#      run: gem install bundler
+#    - name: Clear gem cache
+#      run: bundle exec gem cleanup
     - name: Install deps
       run: |
         npm install -g mermaid.cli
