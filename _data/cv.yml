@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: Post-doc
-      institution: University of Geneva, Biochemistry Department
+      institution: Université de Genève, Biochemistry Departent
       year: 2024-Present
       description: 
         - '<b>Advisor</b>:   Prof. <a href="https://www.unige.ch/sciences/biochimie/labs/karsten-kruse/">Karsten Kruse</a>'
@@ -42,25 +42,6 @@
     #       contents:
     #         - Sub-description 1.
     #         - Sub-description 2.
-    # - title: Visiting Professor
-    #   institution: California Institute of Technology, Pasadena, California, US
-    #   year: 1933
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
-    #
-    # - title: Director
-    #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-    #   year: 1917-1933
-    #
-    # - title: Professor of Theoretical Physics
-    #   institution: Karl-Ferdinand University, Prague, Czechoslovakia
-    #   year: 1911 - 1917
-    #   description:
-    #
-    # - title: Associate Professor of Theoretical Physics
-    #   institution: University of Zurich, Zurich, Switzerland
-    #   year: 1909 - 1911
 
 # - title: Open Source Projects
 #   type: time_table
@@ -72,6 +53,8 @@
 - title: Awards
   type: time_table
   contents:
+    - title: Best poster prize @ <a href="https://www.we-heraeus-stiftung.de/veranstaltungen/from-soft-matter-to-biophysics-2025/">Les Houches Winter school</a> 
+      year: 2025
     - title: International Mobility Fellowship <a href="https://www.edite-de-paris.fr/universite-paris-cite-bdmi/">BDMI</a> for visiting period at MIT 
       year: 2023
     - title: IdEX International <a href="https://www.mastere.tn/en/university-of-paris-doctoral-fellowship-program-2021/">PhD Fellowship</a>
@@ -82,8 +65,11 @@
 - title: Teaching experience
   type: time_table
   contents:
+    - title: Teaching assistant in "Informatics" (Bachelor, 1st year) 
+      institution: Université de Genève
+      year: 2024-2025
     - title: Teaching assistant in "Photonics" (Bachelor, 2nd year) 
-      institution: Universite Paris Cite, IUT Pajol
+      institution: Université Paris Cité, IUT Pajol
       year: 2021-2024
       # description:
       #   - Description 1.
@@ -93,13 +79,13 @@
       #       - Sub-description 1.
       #       - Sub-description 2.
     - title: Teaching assistant in "Properties of materials" (Bachelor, 1st year) 
-      institution: Universite Paris Cite, IUT Pajol
+      institution: Université Paris Cité, IUT Pajol
       year: 2021-2024
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Active matter, out-of-equilibrium statistical physics, theoretical ecology.
+    - title: Active matter, out-of-equilibrium statistical physics, theoretical ecology, biophysics.
       items:
         # - Description 1.
         # - Description 2.

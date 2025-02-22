@@ -1,0 +1,16 @@
+Nel caso in cui su Git non si riesca ad eseguire il deploy:
+
+1/ Dal .github/workflow/deploy.yml cambiare la versione di Ruby con
+quella più aggiornata (attualmente 3.4.2)
+
+2/ Pulisci la cache di jekyll tramite gli appositi comandi sul
+deploy.yml (al momento commentati)
+
+3/ Aggiornare manualmente le gems tramite:
+
+bundle update
+bundle install
+
+Quest'operazione genererà un nuovo Gemfile.lock con le versioni
+aggiornate delle jekyll gems.
+
