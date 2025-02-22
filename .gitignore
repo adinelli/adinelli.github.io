@@ -10,3 +10,4 @@ CV_tex/
 Gemfile.lock
 vendor
 BUNDLE_EXEC
+RUBY_JEKYLL_UPDATES.txt
