@@ -9,3 +9,4 @@ _site
 Gemfile.lock
 vendor
 BUNDLE_EXEC
+RUBY_JEKYLL_UPDATES.txt
