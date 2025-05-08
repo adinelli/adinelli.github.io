@@ -65,7 +65,7 @@
 - title: Teaching experience
   type: time_table
   contents:
-    - title: Teaching assistant in "Computer science" (Bachelor, 1st year) 
+    - title: Teaching assistant in "Introduction to computer science" (Bachelor, 1st year) 
       institution: Université de Genève
       year: 2024-2025
     - title: Teaching assistant in "Photonics" (Bachelor, 2nd year) 
@@ -82,7 +82,7 @@
       institution: Université Paris Cité, IUT Pajol
       year: 2021-2024
 
-- title: Academic Interests
+- title: Research interests
   type: nested_list
   contents:
     - title: Active matter, out-of-equilibrium statistical physics, theoretical ecology, biophysics.
