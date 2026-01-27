@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/
 title: Talks
 description:
-years: [2025,2024,2023,2022,2021]
+years: [2026,2025,2024,2023,2022,2021]
 type: [Invited talks,Contributed talks,Seminars,Flash talks]
 nav: true
 nav_order: 1
