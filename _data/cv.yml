@@ -8,7 +8,7 @@
     - name: Languages
       value: Italian, English, French
 
-- title: Education
+- title: Work Experience
   type: time_table
   contents:
     - title: Post-doc
@@ -16,6 +16,10 @@
       year: 2024-Present
       description: 
         - '<b>Advisor</b>:   Prof. <a href="https://www.unige.ch/sciences/biochimie/labs/karsten-kruse/">Karsten Kruse</a>'
+
+- title: Education
+  type: time_table
+  contents:
     - title: PhD in Physics
       institution: Université Paris Cité
       year: 2021-2024
@@ -28,27 +32,6 @@
     - title: Bachelor in Physics
       institution: Università di Pisa
       year: 2016-2019
-
-# - title: Experience
-#   type: time_table
-#   contents:
-    # - title: Professor of Theoretical Physics
-    #   institution: Institute for Advanced Study, Princeton University
-    #   year: 1933 - 1955
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
-    #     - title: Description 3.
-    #       contents:
-    #         - Sub-description 1.
-    #         - Sub-description 2.
-
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Awards
   type: time_table
